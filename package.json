@@ -18,5 +18,30 @@
     "moment": "^2.30.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/HarshithKumar-A/react-quick-date-range-picker/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshithKumar-A/react-quick-date-range-picker.git"
+  },
+  "keywords": [
+    "Date Range Picker",
+    "React date range picker",
+    "range picker",
+    "MUI date range picker",
+    "material-ui",
+    "mui",
+    "calendar",
+    "datepicker",
+    "date-picker",
+    "date selection",
+    "date input",
+    "user interface",
+    "ui component",
+    "customizable",
+    "custom date range",
+    "reusable"
+  ]
 }
